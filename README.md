@@ -3,6 +3,7 @@
 
 ## 缘起
 [老婆也能懂：两句话让 AI 帮你生成一个照片整理工具](https://mp.weixin.qq.com/s/ddQjaYXB5vlJ4sHqRPcoyw)
+
 代码全由 Trae 自动生成，毫无人工干预（包括此 README...）
 
 ## 主要功能
