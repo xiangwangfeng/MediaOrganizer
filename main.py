@@ -298,10 +298,6 @@ class PhotoOrganizer:
             messagebox.showerror('错误', '请选择源文件夹和目标文件夹')
             self.cleanup()
             return
-        if source_dir in target_dir or target_dir in source_dir:
-            messagebox.showerror('错误', '源文件夹和目标文件夹不能互相包含')
-            self.cleanup()
-            return
 
         try:
             # 预先收集所有需要处理的文件信息
