@@ -22,7 +22,7 @@
 2. 克隆或下载本仓库
 3. 安装依赖库：
 ```bash
-pip install pillow hachoir tkinter hashlib
+pip install -r requirements.txt
 ```
 
 ## 使用方法
